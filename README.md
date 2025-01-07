@@ -1,34 +1,45 @@
-<h1 align="center">Hi 👋, I'm João Victor Conforto Zambon</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+Hi 👋, I'm João Victor Conforto Zambon
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abutoprod&label=Profile%20views&color=0e75b6&style=flat" alt="abutoprod" /> </p>
+A Backend Developer and Technology Enthusiast from Brazil
 
-- 🔭 I’m currently working on **Infra estrutura 37º BI Mec**
+About Me:
 
-- 🌱 I’m currently learning **Ruby**
+🎓 Education:
 
-- 📝 I regularly write articles on [https://www.pesquisagamebrasil.com.br/pt/](https://www.pesquisagamebrasil.com.br/pt/)
+Técnico em Desenvolvimento de Sistemas - Etec de Lins (2016-2018)
 
-- 💬 Ask me about **my ambition**
+Tecnólogo em Análise e Desenvolvimento de Sistemas - Fatec de Lins (2019-2022)
 
-- 📫 How to reach me **victorconforto@outlook.com**
+Pós-graduação em Big Data e Data Science - PUC Minas Gerais (em andamento)
 
-- ⚡ Fun fact **I like to play card games**
+🛠️ Professional Experience:
 
+Servi no exército brasileiro como Gerente do Servidor Local no 37º Batalhão de Infantaria Mecanizado.
 
+Desenvolvedor de sistemas PL/SQL Forms Reports nas Lojas Tanger.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
-<a href="https://www.ruby-lang.org/pt/documentation/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-</p>
+🌱 Currently Learning: Kotlin para desenvolvimento de aplicativos modernos.
 
+📫 Contato: victorconforto@outlook.com
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abutoprod&show_icons=true&locale=en&layout=compact" alt="abutoprod" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abutoprod&" alt="abutoprod" /></p>
+Fun Fact:
 
-<!---
-Abutoprod/Abutoprod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎮 Adoro jogar jogos de cartas e explorar novas tecnologias!
+
+Skills
+
+Linguagens de Programação:
+
+PL/SQL, Java, Kotlin
+
+Bancos de Dados:
+
+Oracle, MySQL
+
+Ferramentas e Frameworks:
+
+Forms Reports, Git, Microsoft SQL Server
+
+Outros:
+
+Desenvolvimento de sistemas orientados a soluções eficazes e desempenho otimizado.
