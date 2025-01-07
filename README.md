@@ -1,6 +1,6 @@
 Hi 👋, I'm João Victor Conforto Zambon
 
-A Backend Developer and Technology Enthusiast from Brazil
+A Backend Developer from Brazil
 
 About Me:
 
