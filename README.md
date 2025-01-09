@@ -20,8 +20,11 @@ Realizo migrações de serviços legados para soluções novas e práticas, util
 🛠️ Skills
 Linguagens de Programação
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/PL%2FSQL-5A29E4?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+<br>
 Bancos de Dados
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<br>
+
 Ferramentas e Frameworks
 <img src="https://img.shields.io/badge/Forms_Reports-FF7300?style=for-the-badge&logo=oracle&logoColor=white" alt="Forms Reports" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 
