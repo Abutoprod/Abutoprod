@@ -4,8 +4,12 @@ A Backend Developer from Brazil
 🎓 Education
 
 Técnico em Desenvolvimento de Sistemas - Etec de Lins (2016-2018)
+
 Tecnólogo em Análise e Desenvolvimento de Sistemas - Fatec de Lins (2019-2022)
+
 Pós-graduação em Big Data e Data Science - PUC Minas Gerais (Em andamento)
+
+
 🛠️ Professional Experience
 
 Servi no Exército Brasileiro como Gerente do Servidor Local no 37º Batalhão de Infantaria Mecanizado.
