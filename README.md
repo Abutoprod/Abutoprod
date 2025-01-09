@@ -1,6 +1,9 @@
 Hi 👋, I'm João Victor Conforto Zambon
 A Backend Developer from Brazil
+
+
 📝 About Me
+
 🎓 Education
 
 Técnico em Desenvolvimento de Sistemas - Etec de Lins (2016-2018)
@@ -10,11 +13,13 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas - Fatec de Lins (2019-2022)
 Pós-graduação em Big Data e Data Science - PUC Minas Gerais (Em andamento)
 
 
+
 🛠️ Professional Experience
 
 Servi no Exército Brasileiro como Gerente do Servidor Local no 37º Batalhão de Infantaria Mecanizado.
 Desenvolvedor de Sistemas PL/SQL Forms Reports nas Lojas Tanger.
 Realizo migrações de serviços legados para soluções novas e práticas, utilizando Java e APIs SOAP.
+
 🌱 Atualmente aprendendo: Kotlin para desenvolvimento de aplicativos modernos.
 
 📫 Contato: victorconforto@outlook.com
